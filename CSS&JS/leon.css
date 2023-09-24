@@ -440,3 +440,15 @@ body {
 }
 /* footer */
 
+/* JS additionals */
+.scroller {
+    height: 5px;
+    top: 0;
+    left: 0;
+    background-color: var(--main-color);
+    width: 0;
+    position: fixed;
+    z-index: 10;
+}
+/* JS additionals */
+
