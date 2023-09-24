@@ -74,7 +74,7 @@ body {
 /* large  */
 @media(min-width :1200px) {
     .container {
-        width: 1170;
+        width: 1170px;
     }
 }
 /* end golbal */
